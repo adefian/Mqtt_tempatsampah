@@ -1,18 +1,22 @@
 {
-  "name": "mqtt_ambildata",
+  "name": "mqtt_tempatsampah",
   "version": "1.0.0",
   "description": "",
   "main": "subscriber.js",
-  "dependencies": {
-    "mqtt": "^4.1.0"
-  },
-  "devDependencies": {},
   "scripts": {
     "test": "node subscriber.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adefian/Mqtt_tempatsampah.git"
+  },
   "keywords": [
-    "mqtt_ambildata"
+    "mqtt_tempatsampah"
   ],
   "author": "adefian",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adefian/Mqtt_tempatsampah/issues"
+  },
+  "homepage": "https://github.com/adefian/Mqtt_tempatsampah#readme"
 }
